@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Moody Towers",
+        "What it was supposed to look like": "<img src=\"http://digital.lib.uh.edu/contentdm/image/standard/p15195coll3/253/500/401/8.7719298245614/0/0/0/0\" alt=\"\" width=\"500\" />"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34156560897826,
+          29.717352170699705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Josh Been and Mapping": "<a href='https://youtu.be/XQa4lcOK3BA' target=\"_blank\">3d Mapping</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.34205913543701,
+          29.72065061586842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "history": "Honors was in five temporary trailers for two years"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.33918380737305,
+          29.72396758700327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "Dan's Travels": "Were not actually that direct, but you can see that lines also have properties"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.34201622009277,
+            29.721060584530406
+          ],
+          [
+            -95.33931255340576,
+            29.724247102034212
+          ],
+          [
+            -95.34154415130615,
+            29.71779942385444
+          ]
+        ]
+      }
+    }
+  ]
+}
